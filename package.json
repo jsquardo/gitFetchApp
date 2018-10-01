@@ -1,0 +1,15 @@
+{
+  "name": "github-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch sass/mystyles.scss -o css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "node-sass": "^4.9.3"
+  }
+}
