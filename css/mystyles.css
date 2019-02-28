@@ -42,7 +42,7 @@ a {
   background-size: cover;
   padding: 100px 0;
   text-align: center;
-  height: 100vh;
+  height: 100%;
   border-bottom: solid 10px #eeb83b; }
   .main__title {
     font-size: 7.3rem !important;
