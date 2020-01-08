@@ -7,3 +7,6 @@
   </p>
 </p>
 
+## About The Project
+GitFetch is a web app in vanilla javascript that retireves Github user stats through the Github API.
+
